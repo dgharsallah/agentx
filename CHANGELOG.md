@@ -2,6 +2,13 @@
 
 Notable changes per release. Older releases are summarized; see `git log` for the full record.
 
+## [0.248.1](https://github.com/anis-marrouchi/agentx/compare/v0.248.0...v0.248.1) (2026-11-21)
+
+
+### Performance Improvements
+
+* **agents:** wiki block at start lists counts per type ([#2002](https://github.com/anis-marrouchi/agentx/issues/2002) step 2) ([#2053](https://github.com/anis-marrouchi/agentx/issues/2053)) ([a2c4842](https://github.com/anis-marrouchi/agentx/commit/a2c4842f64a07d87a6c3547ee1b87f4ed1f4ef90))
+
 ## [0.248.0](https://github.com/anis-marrouchi/agentx/compare/v0.247.0...v0.248.0) (2026-11-21)
 
 
